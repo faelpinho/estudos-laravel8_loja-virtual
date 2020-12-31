@@ -4,13 +4,13 @@ Uma loja virtual sendo construída quando tenho tempo para aprendizado do Larave
 
 URLs disponíveis:
 
-./ => hello world (com Blade Template)
-./teste => hello world (sem Blade)
+- ./ => hello world (com Blade Template)
+- ./teste => hello world (sem Blade)
 
-./produtos => Índice de produtos
-./produtos/{nome-do-produto} => Página de um produto específico (ex: ./produtos/sapato)
-./produtos/inserir => Insere produtos (não implementado)
-./produtos/remover => Remove produtos (não implementado)
+- ./produtos => Índice de produtos
+- ./produtos/{nome-do-produto} => Página de um produto específico (ex: ./produtos/sapato)
+- ./produtos/inserir => Insere produtos (não implementado)
+- ./produtos/remover => Remove produtos (não implementado)
 
 
 // EOF
